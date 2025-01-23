@@ -1,4 +1,5 @@
 # Circle x Polygon x Farcaster Workshop
+Time to DABL
 
 This project is a simple web application that demonstrates how to integrate Circle's Developer Controlled Wallets (DCW) API with Polygon and Farcaster. The application allows users to create a new wallet on the Polygon PoS blockchain using a UI built with the Frog framework.
 
